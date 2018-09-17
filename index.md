@@ -10,14 +10,10 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
 </head>
 <body>
-
   <!-- MAIN WRAPPER -->
   <div id="wrapper">
-
-    <!-- BANNER WRAPPER -->
     <div id="banner-wrapper">
     <header>
         <div id="header-inner">
@@ -25,7 +21,6 @@
             <img src="img/pics/fazt_logo.png" alt="">
           </a>
          </div>
-
           <nav>
             <a href="#" id="menu-icon">
               <i class="fa fa-bars"></i>
@@ -34,7 +29,6 @@
               <li><a href="index.html" class="current">Registrarse</a></li>
               <li><a href="#skills">Iniciar sesión</a></li></ul>
           </nav>
-
           <nav>
              <ul>
                 <li><a href="#">INICIO</a></li>
@@ -43,12 +37,9 @@
                 <li><a href="#">SERVICIOS</a></li>
                 <li><a href="#">RECLAMOS/SUGERENCIAS</a></li>
                 <li><a href="#">CONTACTENOS</a></li>
-
             </ul>
           </nav>
-
       </header>
-
       <!-- SLIDER -->
       <div id="slide-wrap">
         <section class="slider">
@@ -60,13 +51,10 @@
         </section>
       </div>
     </div>
-
-
 <section class="sidebar">
       <img src="img/pics/fazt_logo.png">
 </section>
     <h1>Drogueria Biogen JY</h1>
-
     <!-- LEFT COL -->
   <section class="left-col" id="portfolio">
       <article>
@@ -77,9 +65,7 @@ de análisis clínicos y a la venta de equipos de diálisis. Se funda en el año
 en la ciudad de Huancayo por la Gerente General Yanet Bartolo Cerron.
 </p>
       </article>
-
     </section>
-
     <div class="clearfix-padding"></div>
     <!-- INFO THUMBNAILS -->
     <div class="one-third-padding" id="services">
@@ -99,7 +85,6 @@ en la ciudad de Huancayo por la Gerente General Yanet Bartolo Cerron.
     </div>
   </div>
   <div class="clearfix-padding"></div>
-
   <!-- FOOTER -->
   <footer>
     <div class="banner-wrapper">
